@@ -1,2 +1,2 @@
 # recicle.net.br
-Site educacional para reciclagem de materiais.
+Página educativa sobre reciclagem adequada de resíduos.
